@@ -154,61 +154,6 @@ const translations = {
   }
 };
 
-
-// === Version 2.0 Professional Profile translations ===
-Object.assign(translations.ar, {
-  cvRoleSmall:"نائب الرئيس التنفيذي للتشغيل",
-  cvName:"د. طارق مهنا باهويني",
-  cvHeroTitle:"تنفيذي في الهندسة والبنية التحتية والتنفيذ الاستراتيجي",
-  cvImpact:"تحويل العمليات المعقدة إلى أثر قابل للقياس",
-  viewProfileBrochure:"عرض الملف التنفيذي",
-  linkedinProfile:"LinkedIn Profile",
-  executiveSnapshot:"Executive Snapshot",
-  snapYears:"سنوات خبرة", snapHospitals:"مستشفيات", snapPHC:"مركز رعاية أولية", snapLab:"مختبر إقليمي", snapAssets:"أصل تحت الإدارة", snapContractors:"مقاول واستشاري", snapRecovered:"مشروع مستعاد", snapInfra:"برامج بنية تحتية",
-  sideOps:"قيادة العمليات", sideInfra:"تميز البنية التحتية", sideGovernance:"الحوكمة وإدارة المخاطر", sideStrategic:"التنفيذ الاستراتيجي", sideTransformation:"التحول المؤسسي",
-  aboutTariq:"نبذة تنفيذية عن د. طارق مهنا باهويني",
-  aboutP1:"تنفيذي في الهندسة والعمليات الصحية بخبرة قيادية تتجاوز 21 عاماً في البنية التحتية الصحية، البرامج الرأسمالية، العمليات الهندسية، إدارة المرافق، والتحول المؤسسي.",
-  aboutP2:"يمتلك سجلاً عملياً في تنفيذ البرامج الكبرى، استعادة المشاريع المتعثرة، بناء أنظمة الحوكمة، وقيادة التميز التشغيلي في بيئات صحية متعددة المواقع ومعقدة.",
-  aboutP3:"مؤسس ومطور TB Adaptive Model™، وهو إطار للحوكمة التكيفية والأداء التنفيذي يعزز المرونة المؤسسية وفعالية الحوكمة وقدرة التنفيذ الاستراتيجي.",
-  executiveProfileBrochure:"Executive Profile Brochure",
-  selectedAchievements:"إنجازات تنفيذية مختارة",
-  achRecovered:"استعادة مشاريع متأخرة وعالية المخاطر", achInfra:"برامج بنية تحتية ورأسمالية تم تسليمها", achAssets:"أصل مادي تحت الإدارة", achSanad:"تطوير وتنفيذ منصة حوكمة تشغيلية وهندسية متكاملة", achOperational:"تأسيس لوحات تنفيذية ومؤشرات أداء وأطر قياس",
-  careerJourney:"المسار المهني التنفيذي",
-  founderDeveloper:"المؤسس والمطور",
-  tbProfileDesc:"إطار تنفيذي عملي يعزز المرونة المؤسسية وفعالية الحوكمة وقدرة التنفيذ الاستراتيجي في البيئات المعقدة.",
-  tbLatency:"تحديد وتقليل التأخير بين القرار والتنفيذ", tbStability:"تعزيز استمرارية القيادة واتساق القرار", tbFriction:"إزالة العوائق التي تبطئ التنفيذ", tbAdaptiveGov:"بناء أنظمة حوكمة مرنة تستجيب للاحتياجات", tbExecution:"ترجمة الاستراتيجية إلى نتائج تشغيلية قابلة للقياس", tbResilience:"تعزيز القدرة على التوقع والتكيف واستدامة الأداء",
-  certifications:"الشهادات المهنية", memberships:"العضويات", selectedPublications:"منشورات مختارة",
-  certList:"<li>الهيئة السعودية للمهندسين — مهندس استشاري</li><li>Certified KPI Professional</li><li>Risk Management Professional</li><li>OSHA Safety Training</li><li>Leadership in the Workplace</li><li>Training of Trainers (TOT)</li>",
-  memberList:"<li>الهيئة السعودية للمهندسين</li><li>Project Management Institute (PMI)</li><li>Engineers Australia</li><li>IEEE</li>",
-  publicationList:"<li>System Identification of Biological Cells by Atomic Force Microscopy</li><li>Path Planning in the Presence of Soft Tissue Deformation</li><li>Investigating Mechanical Properties of Biological Brain Cells</li><li>Modeling of Three-Dimensional Soft Tissue Deformation</li>"
-});
-Object.assign(translations.en, {
-  cvRoleSmall:"Deputy CEO for Operations",
-  cvName:"Dr. Tariq Mohana Bahwini",
-  cvHeroTitle:"Engineering, Infrastructure & Strategic Execution Executive",
-  cvImpact:"Transforming Complex Operations into Measurable Impact",
-  viewProfileBrochure:"View Executive Profile",
-  linkedinProfile:"LinkedIn Profile",
-  executiveSnapshot:"Executive Snapshot",
-  snapYears:"Years Experience", snapHospitals:"Hospitals", snapPHC:"Primary Healthcare Centers", snapLab:"Regional Laboratory", snapAssets:"Managed Assets", snapContractors:"Contractors & Consultants", snapRecovered:"Recovered Projects", snapInfra:"Infrastructure Programs",
-  sideOps:"Operations Leadership", sideInfra:"Infrastructure Excellence", sideGovernance:"Governance & Risk Management", sideStrategic:"Strategic Execution", sideTransformation:"Organizational Transformation",
-  aboutTariq:"About Dr. Tariq Mohana Bahwini",
-  aboutP1:"Accomplished Engineering and Operations Executive with 21+ years of progressive leadership in healthcare infrastructure, capital programs, engineering operations, facilities management, and organizational transformation.",
-  aboutP2:"Proven track record in delivering large-scale projects, recovering distressed programs, establishing governance systems, and driving operational excellence in complex multi-site environments.",
-  aboutP3:"Founder and developer of TB Adaptive Model™, an adaptive governance and executive performance framework that enhances organizational resilience, governance effectiveness, and strategic execution capability.",
-  executiveProfileBrochure:"Executive Profile Brochure",
-  selectedAchievements:"Selected Executive Achievements",
-  achRecovered:"Recovered delayed and high-risk projects", achInfra:"Infrastructure and capital programs delivered", achAssets:"Physical assets under management", achSanad:"Developed and implemented integrated engineering and operational governance platform", achOperational:"Established executive dashboards, KPIs and performance frameworks",
-  careerJourney:"Executive Career Journey",
-  founderDeveloper:"Founder & Developer",
-  tbProfileDesc:"A practical executive framework that enhances organizational resilience, governance effectiveness, and strategic execution capability in complex environments.",
-  tbLatency:"Identifying and reducing delays between decision and action", tbStability:"Strengthening leadership continuity and decision consistency", tbFriction:"Eliminating barriers that slow down execution", tbAdaptiveGov:"Building flexible governance systems that evolve with organizational needs", tbExecution:"Translating strategy into measurable operational outcomes", tbResilience:"Enhancing ability to anticipate, adapt, and sustain performance",
-  certifications:"Professional Certifications", memberships:"Memberships", selectedPublications:"Selected Publications",
-  certList:"<li>Saudi Council of Engineers — Consultant Engineer</li><li>Certified KPI Professional</li><li>Risk Management Professional</li><li>OSHA Safety Training</li><li>Leadership in the Workplace</li><li>Training of Trainers (TOT)</li>",
-  memberList:"<li>Saudi Council of Engineers</li><li>Project Management Institute (PMI)</li><li>Engineers Australia</li><li>Institute of Electrical and Electronics Engineers (IEEE)</li>",
-  publicationList:"<li>System Identification of Biological Cells by Atomic Force Microscopy</li><li>Path Planning in the Presence of Soft Tissue Deformation</li><li>Investigating Mechanical Properties of Biological Brain Cells</li><li>Modeling of Three-Dimensional Soft Tissue Deformation</li>"
-});
-
 function setLang(lang){
   localStorage.setItem("siteLang", lang);
   document.documentElement.lang = lang;

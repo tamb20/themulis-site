@@ -8,10 +8,3 @@ This version separates Arabic and English fully:
 - Articles folder includes standalone article pages and a reusable template.
 
 Upload all files and folders to GitHub/Vercel project root.
-
-
-## Version 2.0 Profile Update
-- Updated About/Profile page with executive web layout.
-- Added professional portrait and executive profile brochure image.
-- Preserved bilingual AR/EN language switch and RTL/LTR behavior.
-- Added TB Adaptive Model visual assets folder.
